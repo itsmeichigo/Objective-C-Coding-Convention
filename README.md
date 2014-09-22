@@ -1,9 +1,6 @@
 Objective-C-Coding-Convention
 =============================
 
-
-Every justification and adding in this project should follow the guidelines listed in this file.
-
 These guidelines build on Apple's existing [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html).
 Unless explicitly contradicted below, assume that all of Apple's guidelines apply as well.
 
