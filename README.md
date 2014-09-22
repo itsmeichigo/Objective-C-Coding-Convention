@@ -1,4 +1,4 @@
-Objective-C-Coding-Convention
+Objective-C Coding Convention
 =============================
 
 These guidelines build on Apple's existing [Coding Guidelines for Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html).
